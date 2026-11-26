@@ -9,8 +9,8 @@ const archivo = Archivo({
 });
 
 export const metadata: Metadata = {
-  title: 'Cruz Plumbing | Inland Empire',
-  description: 'The Plumbing Team You Call When It Has To Be Done Right. Serving the Inland Empire. Licensed #1050063.',
+  title: 'Cruz Empire Coaching | Turn Your Service Business Into an Empire',
+  description: 'Coaching for service business owners. Real data from the BLS, U.S. Bank, and IBISWorld shows why half of businesses never make year five — and the six systems that flip the odds in your favor.',
 };
 
 export default function RootLayout({children}: {children: React.ReactNode}) {
